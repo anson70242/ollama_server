@@ -1,4 +1,7 @@
 ## A Script to use ollama server from anywhere
+### Note
+
+Please set up your development environment and execute all code on your local machine. The Large Language Model (LLM) will be the only component running on the server.
 
 ### Installation
 
@@ -34,7 +37,3 @@ GPU_Server_1="http://<Server_IP_1>:11434"
 GPU_Server_2="http://<Server_IP_2>:11434"
 GPU_Server_3="http://<Server_IP_3>:11434"
 ```
-
-### Note
-
-Please set up your development environment and execute all code on your local machine. The Large Language Model (LLM) will be the only component running on the server.
