@@ -1,0 +1,5 @@
+question,answer,img_path
+"1+1=?", "2", ""
+"How many r's are in the word strawberry", "3", ""
+"Which company create the model shown in the Image?", "Meta AI", "imgs/llama.png"
+"Which company create the model shown in the Image?", "Alibaba", "imgs/Qwen2.5-VL.jpg"

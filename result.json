@@ -1,0 +1,14 @@
+[
+    {
+        "response":"1 + 1 = 2"
+    },
+    {
+        "response":"The word 'strawberry' contains **2 r's**."
+    },
+    {
+        "response":"Meta"
+    },
+    {
+        "response":"Qwen is a large language model developed by Alibaba Cloud, which is part of Alibaba Group. The logo and name in the image indicate that this model is created by Alibaba Cloud."
+    }
+]
