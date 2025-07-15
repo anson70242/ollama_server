@@ -1,4 +1,4 @@
-## A Script to use ollama server at M-416 from anywhere
+## A Script to use ollama server from anywhere
 
 ### Installation
 
